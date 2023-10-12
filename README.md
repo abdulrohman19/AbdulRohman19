@@ -26,10 +26,10 @@ An Informatic Engineering student who likes:
   <br>
   
 ### Design Tools
-<a href="#"><img align="left" alt="" title="Figma" width="30px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/Figma.png" /></a>
-  <a href=""><img align="left" alt="Adobe Illustrator" title="Adobe Illustrator" width="30px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/Ai.png" /></a>
-  <a href=""><img align="left" alt="Adobe Photoshop" title="Adobe Photoshop" width="30px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/Ps.png" /></a>
-    <a href=""><img align="left" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" width="35px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/Pr.png" /></a>
+<a href="https://github.com/abdulrohman19"><img align="left" alt="" title="Figma" width="30px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/Figma.png" /></a>
+  <a href="https://github.com/abdulrohman19"><img align="left" alt="Adobe Illustrator" title="Adobe Illustrator" width="30px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/Ai.png" /></a>
+  <a href="https://github.com/abdulrohman19"><img align="left" alt="Adobe Photoshop" title="Adobe Photoshop" width="30px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/Ps.png" /></a>
+    <a href="https://github.com/abdulrohman19"><img align="left" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" width="35px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/Pr.png" /></a>
 <br>
 
 ### Github Statistic
