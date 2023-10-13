@@ -18,11 +18,11 @@ An Informatic Engineering student who likes:
 
 <a href="#"><img align="left" alt="" title="Kotlin" width="21px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/kotlin.png" /></a>
   <a href=""><img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="25px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/IntelliJ%20IDEA.png" /></a>
-  <a href="https://android.org/"><img align="left" alt="Andoid Studio" title="Andoid Studio" width="25px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/android.png" /></a>
-  <a href="https://postman.org/"><img align="left" alt="Postman" title="Postman" width="30px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/postman-seeklogo.com.svg" /></a>
+  <a href=""><img align="left" alt="Andoid Studio" title="Andoid Studio" width="25px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/android.png" /></a>
+  <a href=""><img align="left" alt="Postman" title="Postman" width="30px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/postman-seeklogo.com.svg" /></a>
     <a href="https://github.com/abdulrohman19"><img align="left" alt="GitHub" title="GitHub" width="23px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/icGitHub.png" /></a>
-      <a href="https://git.org/"><img align="left" alt="Git" title="Git" width="22px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/git.png" /></a>
-  <a href="https://python.org/"><img align="left" alt="Python" title="Python" width="20px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/python.png" /></a>
+      <a href=""><img align="left" alt="Git" title="Git" width="22px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/git.png" /></a>
+  <a href=""><img align="left" alt="Python" title="Python" width="20px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/python.png" /></a>
   <br>
   
 ### Design Tools
