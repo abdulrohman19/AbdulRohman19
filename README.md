@@ -1,12 +1,8 @@
 ### Hi! 👋 I'm Rohman.
-An Informatic Engineering student who likes: 
 <img align="right" alt="Coding" width="400" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/gifImg.gif">
-- 💻React Dev  
-- 📱Android Dev  
-- 🎨Graphic Design
-
 
 ### Tech Stack 
+
 <a href="#"><img align="left" alt="" title="Html" width="23px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/html.png" /></a>
   <a href="https://css.org/"><img align="left" alt="Css" title="Css" width="25px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/cssblue.png" /></a>
   <a href="https://javasript.org/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
