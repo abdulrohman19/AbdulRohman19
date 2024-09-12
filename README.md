@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm Rohman.
-<img align="right" alt="Coding" width="400" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/gifImg.gif">
+<img alt="Coding" width="400" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/gifImg.gif">
 
 ### Tech Stack 
 
