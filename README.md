@@ -6,13 +6,12 @@
 <a href="#"><img align="left" alt="" title="Html" width="23px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/html.png" /></a>
   <a href="https://css.org/"><img align="left" alt="Css" title="Css" width="25px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/cssblue.png" /></a>
   <a href="https://javasript.org/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
+  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703155483443/e42a7be2-890a-4bd2-accf-306e53ccebbd.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
 <br>
 
-<a href="https://github.com/abdulrohman19"><img align="left" alt="" title="Kotlin" width="21px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/kotlin.png" /></a>
+<a href="https://github.com/abdulrohman19"><img align="left" alt="Java" title="Java" width="21px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSghdWGl00O5hS7sDlc98yJT_gszgNh1wwUlQ&s" /></a>
   <a href=""><img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="25px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/IntelliJ%20IDEA.png" /></a>
   <a href=""><img align="left" alt="Andoid Studio" title="Andoid Studio" width="25px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/android.png" /></a>
   <a href=""><img align="left" alt="Postman" title="Postman" width="30px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/postman-seeklogo.com.svg" /></a>
