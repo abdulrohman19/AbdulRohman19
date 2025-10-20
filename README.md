@@ -1,36 +1,125 @@
-### Hi! 👋 I'm Rohman.
-<img alt="Coding" width="400" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/gifImg.gif">
+### 🚀 About Me
 
-### Tech Stack 
+<img align="right" alt="Coding GIF" width="350" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/gifImg.gif">
 
-<a href="#"><img align="left" alt="" title="Html" width="23px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/html.png" /></a>
-  <a href="https://css.org/"><img align="left" alt="Css" title="Css" width="25px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/cssblue.png" /></a>
-  <a href="https://javasript.org/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703155483443/e42a7be2-890a-4bd2-accf-306e53ccebbd.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
-<br>
+I'm **Rohman**, a **Fullstack Developer** with a passion for building scalable and user-friendly applications. My journey in tech began with a 6-month internship as an **Android Developer** using **Kotlin**.
 
-<a href="https://github.com/abdulrohman19"><img align="left" alt="Java" title="Java" width="21px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSghdWGl00O5hS7sDlc98yJT_gszgNh1wwUlQ&s" /></a>
-  <a href=""><img align="left" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="25px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/IntelliJ%20IDEA.png" /></a>
-  <a href=""><img align="left" alt="Andoid Studio" title="Andoid Studio" width="25px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/android.png" /></a>
-  <a href=""><img align="left" alt="Postman" title="Postman" width="30px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/postman-seeklogo.com.svg" /></a>
-    <a href="https://github.com/abdulrohman19"><img align="left" alt="GitHub" title="GitHub" width="23px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/icGitHub.png" /></a>
-      <a href=""><img align="left" alt="Git" title="Git" width="22px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/git.png" /></a>
-  <a href=""><img align="left" alt="Python" title="Python" width="20px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/python.png" /></a>
-  <br>
-  
-### Design Tools
-<a href="https://github.com/abdulrohman19"><img align="left" alt="" title="Figma" width="30px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/Figma.png" /></a>
-  <a href="https://github.com/abdulrohman19"><img align="left" alt="Adobe Illustrator" title="Adobe Illustrator" width="30px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/Ai.png" /></a>
-  <a href="https://github.com/abdulrohman19"><img align="left" alt="Adobe Photoshop" title="Adobe Photoshop" width="30px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/Ps.png" /></a>
-    <a href="https://github.com/abdulrohman19"><img align="left" alt="Adobe Premiere Pro" title="Adobe Premiere Pro" width="35px" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/Pr.png" /></a>
-<br>
+Currently, I'm expanding my expertise as a **Fullstack Developer** at a leading technology company based in **South Jakarta, Indonesia** 🇮🇩. I enjoy working with a diverse set of technologies including **Flutter**, **React/Next.js**, **Go (Golang)** & **Python (FastAPI)**.
 
-### Github Statistic
 <p align="left">
-<a href="https://github.com/abdulrohman19">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://www.linkedin.com/in/abdulrohman-it/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/abdulrohman19/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+  </a>
+  <a href="mailto:abdulrohmanunida@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <a href="https://kotlinlang.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin" />
+      </a>
+      <br><strong>Kotlin</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://flutter.dev/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
+      </a>
+      <br><strong>Flutter</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://react.dev/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" style="background-color: white; border-radius: 5px;"/>
+      </a>
+      <br><strong>Next.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://go.dev/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br><strong>Golang</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+      </a>
+      <br><strong>FastAPI</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      </a>
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Shell/Bash" />
+      </a>
+      <br><strong>Shell</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://www.figma.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br><strong>Figma</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <a href="https://developer.android.com/studio" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" />
+      </a>
+      <br><strong>Android Studio</strong>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdulrohman19&style=plastic&color=007acc&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr align="center">
+    <td style="padding-right: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=abdulrohman19&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Rohman's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrohman19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulrohman19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
