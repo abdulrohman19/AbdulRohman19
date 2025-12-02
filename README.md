@@ -1,3 +1,7 @@
+<p>
+  <img src="https://komarev.com/ghpvc/?username=abdulrohman19&style=plastic&color=007acc&label=Profile+Views" alt="Profile Views"/>
+</p>
+
 ### 🚀 About Me
 
 <img align="right" alt="Coding GIF" width="350" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/gifImg.gif">
@@ -102,24 +106,3 @@ Currently, I'm expanding my expertise as a **Fullstack Developer** at a leading 
 </table>
 
 ---
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulrohman19&style=plastic&color=007acc&label=Profile+Views" alt="Profile Views"/>
-</p>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr align="center">
-    <td style="padding-right: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=abdulrohman19&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Rohman's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrohman19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulrohman19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
