@@ -7,8 +7,7 @@
 <img align="right" alt="Coding GIF" width="350" src="https://github.com/abdulrohman19/AbdulRohman19/blob/main/IMG/gifImg.gif">
 
 I'm **Rohman**, a **Fullstack Developer** with a passion for building scalable and user-friendly applications. My journey in tech began with a 6-month internship as an **Android Developer** using **Kotlin**.
-
-Currently, I'm expanding my expertise as a **Fullstack Developer** at a leading technology company based in **South Jakarta, Indonesia** 🇮🇩. I enjoy working with a diverse set of technologies including **Flutter**, **React/Next.js**, **Go (Golang)** & **Python (FastAPI)**.
+Currently, I'm expanding my expertise as a **Fullstack Developer** at a technology company based in **South Jakarta, Indonesia** 🇮🇩. I enjoy working with a diverse set of technologies including **Flutter**, **React/Next.js**, **Go (Golang)** & **Python (FastAPI)**.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdulrohman-it/" target="_blank">
